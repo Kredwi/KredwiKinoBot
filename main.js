@@ -27,11 +27,6 @@ bot.start(async (ctx) => { // Создаем обработку команды /
 })
 
 bot.on('message', async (ctx) => {
-    try {
-
-    } catch (error) {
-        
-    }
     const sub = await checkSub(ctx);
     if (sub) { // Проверка если sub будет равен (==) true то выполнится код в if
         var films = fs.readFileSync('./films.json', 'utf-8'); // Чтение файла films.json
