@@ -9,10 +9,10 @@
 
 #### Configure the films.json file
     "23": { Film code
-        "name": "Kredwi", Film name
-        "year": "2023", Film release year
-        "description": "Awesome movie for the evening, or maybe the whole day..", Film description
-        "image": "DIRECT LINK TO THE IMAGE" Film image
+        "name": "Kredwi",
+        "year": "2023",
+        "description": "Awesome movie for the evening, or maybe the whole day..",
+        "image": "DIRECT LINK TO THE IMAGE"
     }
 
 (if you need to add more movies, separate them with commas!!!!)
