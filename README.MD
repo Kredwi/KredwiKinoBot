@@ -13,7 +13,9 @@
         "year": "2023", Film release year
         "description": "Awesome movie for the evening, or maybe the whole day..", Film description
         "image": "DIRECT LINK TO THE IMAGE" Film image
-    } (if you need to add more movies, separate them with commas!!!!)
+    }
+
+(if you need to add more movies, separate them with commas!!!!)
 
 Example:
 "23": {
