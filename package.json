@@ -1,0 +1,16 @@
+{
+  "name": "kredwikinobot",
+  "version": "0.1",
+  "description": "This KredwiKinoBot for Telegram. Write code!",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "Kredwi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express.js": "^1.0.0",
+    "telegraf": "^4.15.0"
+  }
+}
