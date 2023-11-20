@@ -8,7 +8,7 @@
 - `channelUrl` - Link to your Telegram Channel
 
 #### Configure the films.json file
-    "23": { Film code
+    "23": {
         "name": "Kredwi",
         "year": "2023",
         "description": "Awesome movie for the evening, or maybe the whole day..",
